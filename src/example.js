@@ -1,0 +1,1 @@
+// Fixed linting errors\n// const unusedVar = 'test'; // Removed unused variable\n// console.log('Hello world'); // Commented out console log\nfunction example() {\n  return 'single quotes'; // Fixed quotes and added semicolon\n}
